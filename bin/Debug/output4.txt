@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Nguyen Van A",
+    "ID": 26522222,
+    "Phone": "0987654321",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 8
+  },
+  {
+    "Name": "Tran Thi B",
+    "ID": 25522116,
+    "Phone": "0987123654",
+    "Course1": 8,
+    "Course2": 6,
+    "Course3": 9,
+    "Average": 7.67000008
+  },
+  {
+    "Name": "Le Van C",
+    "ID": 25521928,
+    "Phone": "0967843215",
+    "Course1": 9,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 8.67000008
+  }
+]

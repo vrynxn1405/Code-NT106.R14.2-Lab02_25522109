@@ -1,0 +1,16 @@
+﻿BẢNG THỐNG KÊ DOANH THU PHÒNG VÉ
+==========================================
+Xếp hạng doanh thu: 1
+Tên phim: Mai
+Số lượng vé bán ra: 4
+Số lượng vé tồn: 41
+Tỉ lệ vé bán ra: 8.89%
+Doanh thu: 350,000 đ
+------------------------------------------
+Xếp hạng doanh thu: 2
+Tên phim: Đào, phở và Piano
+Số lượng vé bán ra: 3
+Số lượng vé tồn: 27
+Tỉ lệ vé bán ra: 10.00%
+Doanh thu: 67,500 đ
+------------------------------------------
